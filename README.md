@@ -24,26 +24,26 @@ Este proyecto es una herramienta simple en Python para verificar información so
     python3 -m venv venv
     source venv/bin/activate
 
-3.**Instala las dependencias:
+3. **Instala las dependencias:
 
     ```sh
     Copiar código
     pip install phonenumbers
 
-##Uso
+## Uso
 
-1.**Ejecuta el script:
+1. **Ejecuta el script:
 Asegúrate de que tu entorno virtual esté activado y ejecuta el script:
 
     ```sh
     Copiar código
     python main.py
-2.**Sigue las instrucciones:
+2. **Sigue las instrucciones:
 El script te pedirá que ingreses un número de teléfono. Ingresa el número en formato internacional (por ejemplo, +14155552671) y presiona Enter.
 
 El script devolverá la descripción del número y el nombre del proveedor en español.
 
-##Ejemplo de salida
+## Ejemplo de salida
 
     ```sh
     Copiar código
